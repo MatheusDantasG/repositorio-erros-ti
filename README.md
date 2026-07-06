@@ -26,3 +26,5 @@ Para distribuir o sistema para a equipe de suporte rodar sem precisar instalar o
 1. Instale as dependências necessárias no seu terminal:
    ```bash
    pip install Pillow pyinstaller
+
+<img width="1364" height="727" alt="image" src="https://github.com/user-attachments/assets/7e8e61e9-ff09-4484-9526-946b93912e59" />
